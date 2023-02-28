@@ -1,5 +1,5 @@
-CI CD + AWS Deploy: /
-  1: Create AIM user with full s3 and beanstalk Permissions /
+CI CD + AWS Deploy:  
+  1: Create AIM user with full s3 and beanstalk Permissions  
   2: Create Access Key and Create Secret Key in AIM user /
   2: Create s3 bucket / 
   3: Create beanstalk with python in AWS /
