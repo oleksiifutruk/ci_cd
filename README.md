@@ -1,9 +1,9 @@
 CI CD + AWS Deploy:  
   1: Create AIM user with full s3 and beanstalk Permissions  
-  2: Create Access Key and Create Secret Key in AIM user  
+  2: Create MY_AWS_ACCESS_KEY and Create MY_AWS_SECRET_KEY in AIM user AWS  
   2: Create s3 bucket  
   3: Create beanstalk with python in AWS  
-  4: Create Secrets access_key and secret_key in Settings on github  
+  4: Create MY_AWS_ACCESS_KEY and MY_AWS_SECRET_KEY in Settings in github settings secret
     
   global environment:  
     EB_PACKAGE_S3_BUCKET_NAME : "your s3 bucket name"  
